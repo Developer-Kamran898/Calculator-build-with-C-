@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNukcU5SaKM=",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\Practice 1\\Calculator Project (Beginner).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mstest.analyzers\\3.9.3\\mstest.analyzers.3.9.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mstest.testframework\\3.9.3\\mstest.testframework.3.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}

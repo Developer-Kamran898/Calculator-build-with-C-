@@ -1,0 +1,32 @@
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Calculator Project (Beginner).exe
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Calculator Project (Beginner).deps.json
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Calculator Project (Beginner).runtimeconfig.json
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Calculator Project (Beginner).dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Calculator Project (Beginner).pdb
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).AssemblyInfoInputs.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).AssemblyInfo.cs
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).csproj.CoreCompileInputs.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).dll
+D:\C# Projects\Practice 1\obj\Debug\net9.0\refint\Calculator Project (Beginner).dll
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).pdb
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).genruntimeconfig.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\ref\Calculator Project (Beginner).dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculator Project (Beginner).csproj.AssemblyReference.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\Calculat.560B301D.Up2Date

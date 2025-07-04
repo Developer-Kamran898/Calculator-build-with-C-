@@ -1,0 +1,14 @@
+D:\C# Projects\Practice 1\bin\Debug\net9.0\FieldValidatorApi.exe
+D:\C# Projects\Practice 1\bin\Debug\net9.0\FieldValidatorApi.deps.json
+D:\C# Projects\Practice 1\bin\Debug\net9.0\FieldValidatorApi.runtimeconfig.json
+D:\C# Projects\Practice 1\bin\Debug\net9.0\FieldValidatorApi.dll
+D:\C# Projects\Practice 1\bin\Debug\net9.0\FieldValidatorApi.pdb
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.AssemblyInfoInputs.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.AssemblyInfo.cs
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.csproj.CoreCompileInputs.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.dll
+D:\C# Projects\Practice 1\obj\Debug\net9.0\refint\FieldValidatorApi.dll
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.pdb
+D:\C# Projects\Practice 1\obj\Debug\net9.0\FieldValidatorApi.genruntimeconfig.cache
+D:\C# Projects\Practice 1\obj\Debug\net9.0\ref\FieldValidatorApi.dll
