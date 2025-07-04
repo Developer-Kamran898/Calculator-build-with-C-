@@ -221,9 +221,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
+Your Name - muhammadkamran00898@email@example.com
 
-Project Link: https://github.com/yourusername/enhanced-calculator
+Project Link: https://github.com/Developer-Kamran898/Calculator-build-with-C-/
 
 ---
 
